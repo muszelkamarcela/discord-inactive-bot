@@ -1,2 +1,2 @@
 # discord-inactive-bot
-bot, który pinguje nieaktywnych urzytkowników
+bot, który pinguje nieaktywnych uzytkowników
